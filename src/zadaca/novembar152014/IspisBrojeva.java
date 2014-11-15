@@ -6,6 +6,7 @@ public class IspisBrojeva {
 		/*
 		 * program ce ispisivati brojeve izmedju 10 i 100 hiljada ukljucujuci i
 		 * te brojeve, unazad i svaki broj posebno u jednoj liniji koda.
+		 * samo komentar da se vidi da je nesto promjenjeno
 		 */
 		System.out.println("Inicijalni broj:  " + brojcicNeki);
 		System.out.println("Zadnja cifra je:  " + brojcicNeki % 10);
