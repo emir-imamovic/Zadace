@@ -7,6 +7,7 @@ public class SferaPiramida {
 		 * pretpostavimo da je piramida pravilna cetverostranicna, tj da su joj
 		 * stranice cetiri jednakostranicna trougla,
 		 */
+		 //Zasto castati int ? 
 		int visinaTrougla = (int) (Math.sqrt(3) / 2 * stranica);
 		int visinaPiramide = (int) (visinaTrougla * visinaTrougla - (stranica / 2)
 				* (stranica / 2));
